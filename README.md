@@ -2,10 +2,10 @@
 use scripts to load and unload xyz tiles in Qgis
 
 # load tiles
-open python console in Qgis, (Ctrl + Alt + P)
+Step 1 open python console in Qgis, (Ctrl + Alt + P)
 
-show editor 
+Step 2 show editor 
 
-paste load_xyztiles.py or unload_xyztiles.py code into the editor
+Step 3 paste load_xyztiles.py or unload_xyztiles.py code into the editor
 
-click run script
+Step 4 click run script
